@@ -1,8 +1,6 @@
 # 🏆 FairPlay: Anti-Doping Education Platform
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![Build Status](https://github.com/your-username/fairplay-app/actions/workflows/main.yml/badge.svg)](https://github.com/your-username/fairplay-app/actions)
-[![Code Quality](https://api.codiga.io/project/12345/status/svg)](https://app.codiga.io/project/12345)
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![Docker](https://img.shields.io/badge/Docker-Supported-blue.svg)](docker-compose.yml)
 
@@ -12,10 +10,10 @@ FairPlay is an innovative platform that empowers athletes, coaches, and medical 
 
 ## Table of Contents
 
-- [Overview](https://github.com/Akshat394/FairPlayAPP/new/main?filename=README.md#overview)
+- [Overview](#overview)
 - [Key Features](#key-features)
 - [Architecture & Tech Stack](#architecture--tech-stack)
-- [Project Structure](#-project-stucture)
+- [Project Structure](#project-stucture)
 - [Repository Structure](#repository-structure)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
@@ -27,7 +25,7 @@ FairPlay is an innovative platform that empowers athletes, coaches, and medical 
 - [Contributing](#contributing)
 - [Roadmap](#roadmap)
 - [License](#license)
-- [Screenshots](#screenshots)
+
 
 ---
 
@@ -280,17 +278,5 @@ Distributed under the Apache 2.0 License. See [LICENSE](LICENSE) for full detail
 
 ---
 
-## Screenshots
-
-### Athlete Dashboard
-![Athlete Dashboard](media/athlete-dashboard.png)
-
-### AR Learning Module
-![AR Module](media/ar-module.png)
-
-### Quiz & Analytics Interface
-![Quiz Interface](media/quiz-interface.png)
-
----
 
 FairPlay sets the standard for anti-doping education by merging advanced technology with user-centered design. Join our community and help build a culture of integrity and excellence in sports!
